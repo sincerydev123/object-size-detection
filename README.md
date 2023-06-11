@@ -17,11 +17,6 @@ OpenCV
 Numpy
 
 ### Installing
-For python and pip installation follow this blog
-1. For windows
-https://www.howtogeek.com/197947/how-to-install-python-on-windows/
-2. For Linux
-https://docs.python-guide.org/starting/install3/linux/
 
 Other prerequisites:
 - pip install numpy
@@ -48,10 +43,6 @@ Other prerequisites:
 ## Results
 
 ![Result](images/img2.jpg?raw=true "Title")
-
-## Authors
-
-* **Shashank Sharma** 
 
 ## Acknowledgments
 
